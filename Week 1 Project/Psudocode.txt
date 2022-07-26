@@ -1,0 +1,16 @@
+Making the account.
+Deciding if you want to create your new account.
+Or managing your account.
+Or if you want to send/recieve messages.
+Or quit the app.
+If you want to create new account you will be told to put your:
+Name, Date of birth, set a password, confirm the password, make a username.
+Then your account will be made.
+IF else you click manage your account, you will be asked to chose:
+If you want to view your friends (click)
+If you want to add friends (click):
+Then add their username and add them.
+If you want to block your friends that tap their username:- (click block)
+If you want to send/recieve messages: (click username)
+check messages or type a message and click send.
+If you are done then press quit app.
